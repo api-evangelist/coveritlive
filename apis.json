@@ -1,0 +1,73 @@
+{
+    "name": "CoveritLive",
+    "description": "CoveritLive: Live Blogging 2.0 - CoveritLive.com is a web based Live Blogging tool that allows you to broadcast live commentary to your readers. Instead of waiting for tomorrow to read what you have to say, they hear from you live...right now! If your ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1257-coveritlive.jpg",
+    "tags": [
+        "api provider",
+        "blogging",
+        "entertainment",
+        "have api",
+        "live blogging",
+        "news",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/coveritlive\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CoveritLive",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1257-coveritlive.jpg",
+            "humanURL": "http:\/\/www.coveritlive.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/coveritlive-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/coveritlive-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.coveritlive.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/coveritlive"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/coveritlive"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.coveritlive.com\/resources\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@coveritlive.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/wwwssl.coveritlive.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/coveritlive"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.coveritlive.com"
+        }
+    ]
+}
